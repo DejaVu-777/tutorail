@@ -1,2 +1,2 @@
 blah
-thisnis a course of git
+thisnis a  of git
